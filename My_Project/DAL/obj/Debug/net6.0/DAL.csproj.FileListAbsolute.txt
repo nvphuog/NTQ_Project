@@ -1,0 +1,14 @@
+E:\git\NTQ_Project\My_Project\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\git\NTQ_Project\My_Project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\git\NTQ_Project\My_Project\DAL\bin\Debug\net6.0\DAL.dll
+E:\git\NTQ_Project\My_Project\DAL\bin\Debug\net6.0\DAL.pdb
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.dll
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.pdb
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\git\NTQ_Project\My_Project\DAL\obj\Debug\net6.0\ref\DAL.dll

@@ -11,7 +11,7 @@ build_property.RootNamespace = Project_Exam
 build_property.ProjectDir = E:\git\NTQ_Project\My_Project\Project_Exam\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = E:\git\NTQ_Project\My_Project\Project_Exam
 build_property._RazorSourceGeneratorDebug = 
 

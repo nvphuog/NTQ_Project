@@ -1,7 +1,19 @@
+using DAL.Database;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+// builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+builder.Services.AddRazorPages();
+
+builder.Services.AddSession();
+
+builder.Services.AddDbContext<MyDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Connect"));
+});
 
 var app = builder.Build();
 
@@ -15,9 +27,12 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+// app.UseCookiePolicy();
+app.UseSession();
 
 app.UseRouting();
 
+// app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
