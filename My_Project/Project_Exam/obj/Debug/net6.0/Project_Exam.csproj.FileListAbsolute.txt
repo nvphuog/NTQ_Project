@@ -571,3 +571,4 @@ E:\git\NTQ_Project\My_Project\Project_Exam\bin\Debug\net6.0\Microsoft.VisualStud
 E:\git\NTQ_Project\My_Project\Project_Exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\git\NTQ_Project\My_Project\Project_Exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\git\NTQ_Project\My_Project\Project_Exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\git\NTQ_Project\My_Project\Project_Exam\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
